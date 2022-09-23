@@ -3,7 +3,7 @@
 
 
 
-* Connect the SSD on to the embedded board.Get the Name, UUID and File System Type.
+* Connect the SSD on to the embedded board. Get the Name, UUID and File System Type.
 
 ```
 sudo blkid
