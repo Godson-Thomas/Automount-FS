@@ -17,7 +17,7 @@ Open the terminal, run the above command to see the name of the drive, its UUID(
 
 
 
-First, you need to know the name of the drive that is going to be automatically mounted. For example, the name of the drive that is going to be automatically mounted on this example is _/dev/sdb9_.
+First, we need to know the name of the drive that is going to be automatically mounted. For example, the name of the drive that is going to be automatically mounted on this example is _/dev/sdb9_.
 
 Then we need to know its UUID and file system type. The UUID of _/dev/sdb9_ is _eb67c479-962f-4bcc-b3fe-cefaf908f01e_ and the file system of _/dev/sdb9_ is ext4 which is the standard file system in Linux.
 
