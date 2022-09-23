@@ -1,4 +1,5 @@
-
+<br>
+<img src="https://github.com/Godson-Thomas/Automount-FS/blob/master/_1.png" width="700"><br><br>
 
 
 
@@ -48,7 +49,7 @@ Note: Add the following line to the end of _/etc/fstab_. Separate with Tab key
 ```
 UUID=eb67c479-962f-4bcc-b3fe-cefaf908f01e  /mnt/sdb9  ext4  defaults  0  2
 ```
-
+Note: Change the FS type to _NTFS_, _SquashFS_, _BtrFS_ as per the type.
 <br><br>
 <img src="https://github.com/Godson-Thomas/Automount-FS/blob/master/_2.png" width="700"><br><br>
 
