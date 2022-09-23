@@ -53,7 +53,7 @@ UUID=eb67c479-962f-4bcc-b3fe-cefaf908f01e  /mnt/sdb9  ext4  defaults  0  2
 <img src="https://github.com/Godson-Thomas/Automount-FS/blob/master/_2.png" width="700"><br><br>
 
 * Save and close the file
-* Type the below command for auto mount.
+* Type the below command for mount.
 ```
 sudo mount -a
 ```
