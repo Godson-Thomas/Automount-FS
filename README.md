@@ -1,5 +1,5 @@
 <br>
-<img src="https://github.com/Godson-Thomas/Automount-FS/blob/master/_3.png" width="700"><br><br>
+<img src="https://github.com/Godson-Thomas/Automount-FS/blob/master/_3.jpg" width="700"><br><br>
 
 
 
