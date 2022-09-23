@@ -62,7 +62,10 @@ sudo mount -a
 ```
 df -h
 ```
+* Reboot the system.
 
-
+```
+reboot
+```
 
 
