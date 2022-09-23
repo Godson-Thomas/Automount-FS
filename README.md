@@ -43,7 +43,7 @@ Then we need to know its UUID and file system type. The UUID of _/dev/sdb9_ is _
 **UUID= \uuid-of-your-drive\  \mount-point\  \file-system-type\  \mount-option\  \dump\  \pass**
 
 
-Note: Add the following line to the end of _/etc/fstab_.
+Note: Add the following line to the end of _/etc/fstab_. Separate with Tab key
 
 ```
 UUID=eb67c479-962f-4bcc-b3fe-cefaf908f01e  /mnt/sdb9  ext4  defaults  0  2
